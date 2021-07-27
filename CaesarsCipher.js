@@ -15,4 +15,4 @@ function rot13(str){
 
   return decodedLetters.join("");
 }
-console.log(rot13("SERR PBQR PNZC"))
+console.log(rot13("SERR PBQR PNZC"));
